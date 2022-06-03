@@ -370,4 +370,14 @@ li {
   .trending-container::-webkit-scrollbar {
     display: none;
   }
+   .categories-container::-webkit-scrollbar {
+    display: none;
+  }
+  .banner-wrapper::-webkit-scrollbar {
+    height: 5px;
+    background-color: var(--gray-3);
+  }
+  .banner-wrapper::-webkit-scrollbar-thumb {
+    background-color: var(--yellow-1);
+  }
  }
