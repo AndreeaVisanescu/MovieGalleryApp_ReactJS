@@ -17,7 +17,7 @@ Preview
 
 Introduction
 
-Tablet & Desktop Responsive
+Mobile & Desktop Responsive
 
 Setup:
 * Open a terminal on vscode, then make sure you already node installed. 
