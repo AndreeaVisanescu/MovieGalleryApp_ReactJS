@@ -20,7 +20,7 @@ Introduction
 Mobile & Desktop Responsive
 
 Setup:
-* Open a terminal on vscode, then make sure you already node installed. 
+* Open a terminal on vscode, then make sure you already have node installed. 
 * Open terminal, navigate to project dir
 * Create an '.env.local' file in project dir with text 'REACT_APP_TMDB_KEY=<<API_KEI>>';
 * Run npm install
